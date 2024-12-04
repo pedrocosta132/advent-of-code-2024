@@ -7,3 +7,4 @@ My solutions to Advent Of Code 2024 in JavaScript
 | 1   | ✅              | ✅              |
 | 2   | ✅              | ✅              |
 | 3   | ✅              | ✅              |
+| 4   | ✅              | ✅              |
