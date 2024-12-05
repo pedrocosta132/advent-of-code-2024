@@ -8,3 +8,4 @@ My solutions to Advent Of Code 2024 in JavaScript
 | 2   | ✅              | ✅              |
 | 3   | ✅              | ✅              |
 | 4   | ✅              | ✅              |
+| 5   | ✅              | ✅              |
